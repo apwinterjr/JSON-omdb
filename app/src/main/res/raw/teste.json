@@ -1,0 +1,33 @@
+{
+  "Banda":"Pink Floyd",
+  "Teste":1,
+  "Album":"Wish You were here",
+  "Ano":1975,
+  "Faixas":[
+    {
+      "Titulo":"Shine on you crazy diamond I-V",
+      "Duracao":"13:38",
+      "Vocal":"Roger Waters"
+    },
+    {
+      "Titulo":"Welcome to the machine",
+      "Duracao":"7:30",
+      "Vocal":"David Gilmour"
+    },
+    {
+      "Titulo":"Have a cigar",
+      "Duracao":"5:24",
+      "Vocal":"Roy Harper"
+    },
+    {
+      "Titulo":"Wish you were here",
+      "Duracao":"5:17",
+      "Vocal":"David Gilmour"
+    },
+    {
+      "Titulo":"Shine on you crazy diamond VI-IX",
+      "Duracao":"13:38",
+      "Vocal":"Roger Waters"
+    }
+  ]
+}
